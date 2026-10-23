@@ -19,7 +19,7 @@ STEP-4: Else subtract the key from the plain text.
 STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
